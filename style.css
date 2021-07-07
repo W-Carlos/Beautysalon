@@ -97,6 +97,23 @@ h1 {
     background-color: var(--body-color);
 }
 
+main {
+    margin-top: calc(var(--header-height) + 2rem);
+}
+
+/*======= LOGO =======*/
+
+.logo {
+    font: 700 1.31rem 'Poppins', sans-serif;
+    color: var(--title-color);
+}
+
+.logo span {
+    color: var(--base-color);
+}
+
+/*======= NAVIGATION =======*/
+
 nav {
     height: var(--header-height);
     display: flex;
@@ -104,21 +121,6 @@ nav {
     align-items: center;
     width: 100%;
 }
-
-.logo {
-    font: 700 1.31rem 'Poppins', sans-serif;
-    color: var(--title-color);
-
-}
-
-.logo span {
-    color: var(--base-color);
-}
-
-main {
-    margin-top: var(--header-height);
-}
-
 
 /*======= HOME =======*/
 #home {
