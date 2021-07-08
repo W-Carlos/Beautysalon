@@ -66,8 +66,17 @@ body {
 .divider-1 {
     background: linear-gradient(
     270deg, 
-    hsla(var(--hue), 36%, 57%, 1) 0%, 
-    hsla(var(--hue), 65%, 88%, 0.34) 100%
+    hsla(var(--hue), 36%, 57%, 1), 
+    hsla(var(--hue), 65%, 88%, 0.34)
+    );
+    height: 1px;
+}
+
+.divider-2 {
+    background: linear-gradient(
+    270deg, 
+    hsla(var(--hue), 65%, 88%, 0.34),
+    hsla(var(--hue), 36%, 57%, 1)
     );
     height: 1px;
 }
@@ -87,6 +96,9 @@ body {
     padding: 5rem 0;
 }
 
+.section .title {
+    margin-bottom: 1rem;
+}
 
 #header {
     border-bottom: 1px solid #E4E4E4;
@@ -254,4 +266,42 @@ nav.show div.icon-close {
 #home .text p {
     margin-bottom: 2rem;
     max-width: 100%;
+}
+
+/*======= ABOUT =======*/
+#about {
+    background: white;
+}
+
+#about .container {
+    margin: 0;
+}
+
+#about .image {
+    position: relative;
+}
+
+#about .image::before {
+    content: '';
+    height: 100%;
+    width: 100%;
+    background: var(--base-color-second);
+    position: absolute;
+    top: -8.3%;
+    left: -33%;
+    z-index: 0;
+}
+
+#about .image img {
+    position: relative;
+}
+
+#about .image img, 
+#about .image::before {
+    border-radius: 0.25rem;
+}
+
+#about .text {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
 }
