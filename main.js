@@ -58,3 +58,6 @@ const swiper = new Swiper('.swiper-container', {
        #contact .text, #contact .links
       `, 
     { interval: 100 })
+
+    /* Botão voltar para o topo */
+    const backToTopButton = 
