@@ -73,7 +73,7 @@ body {
 }
 
 .button:hover {
-    background: var(--base-color-alt);
+    background: rgb(123, 212, 181);
     transform: scale(1.2);
 }
 
