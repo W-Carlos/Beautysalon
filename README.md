@@ -30,3 +30,11 @@ Utilitários
 
 * [randomuser.me](https://randomuser.me/photos)
 * [IconMoon](https://icomoon.io/)
+
+> ## 📝 Licença
+
+Esse projeta está sob a licença MIT. Veja o arquivo [LICENÇA](https://github.com/W-Carlos/Beautysalon/blob/main/LICENSE) para mais detalhes.
+
+<p style= "text-align: center"> By 👋 Wend Carlos </p>
+
+
