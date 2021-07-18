@@ -100,7 +100,7 @@ const swiper = new Swiper('.swiper-container', {
         }
     }
 
-    /* When Scroll */
+    /* When Scroll quando a página rolar */
 
     window.addEventListener('scroll', function() {
         changeHeaderWhenScroll()

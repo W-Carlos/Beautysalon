@@ -1,4 +1,4 @@
-> <h1 style= "text-align: center"> OriginSix </h1>
+> <h1 style= "text-align: center;"> OriginSix </h1>
 
 > ## 💻 Projeto
 
@@ -35,6 +35,6 @@ Utilitários
 
 Esse projeta está sob a licença MIT. Veja o arquivo [LICENÇA](https://github.com/W-Carlos/Beautysalon/blob/main/LICENSE) para mais detalhes.
 
-<p style= "text-align: center"> By 👋 Wend Carlos </p>
+<p style= "text-align: center;"> By 👋 Wend Carlos </p>
 
 
