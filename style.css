@@ -69,12 +69,11 @@ body {
     border-radius: 0.25rem;
     font: 500 1rem var(--body-font);
     transition: background 0.3s;
-    transition: all 0.5s;
 }
 
 .button:hover {
     background: rgb(123, 212, 181);
-    transform: scale(1.2);
+    
 }
 
 .divider-1 {
@@ -557,6 +556,11 @@ footer .social a:hover {
 
     .button {
         height: 3.125rem;
+        transition: all 0.5s;
+    }
+
+    .button:hover {
+        transform: scale(1.2);
     }
 
     /* navigation */
