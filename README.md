@@ -31,6 +31,10 @@ Utilitários
 * [randomuser.me](https://randomuser.me/photos)
 * [IconMoon](https://icomoon.io/)
 
+> ## Texte o projeto no link abaixo:
+
+[https://beautysalon.netlify.app/](https://nifty-shirley-0315d7.netlify.app/)
+
 > ## 📝 Licença
 
 Esse projeta está sob a licença MIT. Veja o arquivo [LICENÇA](https://github.com/W-Carlos/Beautysalon/blob/main/LICENSE) para mais detalhes.
