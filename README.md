@@ -1,4 +1,4 @@
-> <h1 style="text-align: center;"> OriginSix </h1>
+> <h1 align="center"> Beautysalon </h1>
 
 > ## 💻 Projeto
 
