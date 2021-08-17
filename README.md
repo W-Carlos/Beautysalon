@@ -1,4 +1,4 @@
-> <h1 align="center"> Beautysalon </h1>
+<h1 align="center"> Beautysalon </h1>
 
 > ## 💻 Projeto
 
