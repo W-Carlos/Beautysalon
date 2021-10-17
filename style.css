@@ -379,6 +379,7 @@ nav.show div.icon-close {
 /*======= DEPOIMENTOS =======*/
 #testimonials {
     background: white;
+    overflow: hidden;
 }
 
 #testimonials .container {
