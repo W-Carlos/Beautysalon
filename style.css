@@ -51,6 +51,8 @@ body {
     color: var(--text-color);
     background: var(--body-color);
     -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
 }
 
 .title {
@@ -350,7 +352,9 @@ nav.show div.icon-close {
 }
 
 /*======= SERVICES =======*/
-
+.services {
+  
+}
 
 .cards.grid {
     gap: 1.5rem;
@@ -466,12 +470,13 @@ nav.show div.icon-close {
 }
 
 /*======= FOOTER =======*/
-footer.section {
+footer {
     background: var(--base-color);
-}
 
-footer.section {
-    padding: 4rem 0;
+    display: block;
+    width: 100%;
+
+    
 }
 
 footer.section {
@@ -648,6 +653,7 @@ footer .social a:hover {
    
    /* footer */
    footer.section {
+      
        padding: 3.75rem 0;
    }
 
