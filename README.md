@@ -4,9 +4,9 @@
 
 Beautysalon é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Esse projeto contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
 
-> ## Texte o projeto no link abaixo:
+> ## Teste o projeto no link abaixo:
 
-[https://beautysalon.netlify.app/](https://nifty-shirley-0315d7.netlify.app/)
+[https://beautysalon-page.netlify.app/](https://beautysalon-page.netlify.app/)
 
 > ## 🖥️ Demo Desktop
 
