@@ -39,6 +39,8 @@ Utilitários
 
 Esse projeta está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/W-Carlos/Beautysalon/blob/main/LICENSE) para mais detalhes.
 
-<p style="text-align: center;"> By 👋 Wend Carlos </p>
+---
+
+<p align="center"> By 👋 Wend Carlos </p>
 
 
